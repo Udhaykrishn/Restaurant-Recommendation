@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Joe's Pizza",
+    "cuisine": "Italian",
+    "location": "New York",
+    "budget": "Low",
+    "costRange": "10-50"
+  },
+  {
+    "name": "Nobu",
+    "cuisine": "Japanese",
+    "location": "Los Angeles",
+    "budget": "High",
+    "costRange": "100-200"
+  },
+  {
+    "name": "Le Bernardin",
+    "cuisine": "French",
+    "location": "New York",
+    "budget": "High",
+    "costRange": "100-200"
+  },
+  {
+    "name": "Taco Bell",
+    "cuisine": "Mexican",
+    "location": "San Francisco",
+    "budget": "Low",
+    "costRange": "10-50"
+  },
+  {
+    "name": "Gordon Ramsay Steak",
+    "cuisine": "American",
+    "location": "Las Vegas",
+    "budget": "High",
+    "costRange": "100-200"
+  },
+  {
+    "name": "P.F. Chang's",
+    "cuisine": "Chinese",
+    "location": "Miami",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "Katz's Delicatessen",
+    "cuisine": "American",
+    "location": "New York",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "Din Tai Fung",
+    "cuisine": "Taiwanese",
+    "location": "Seattle",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "The French Laundry",
+    "cuisine": "French",
+    "location": "Yountville",
+    "budget": "High",
+    "costRange": "100-200"
+  },
+  {
+    "name": "Shake Shack",
+    "cuisine": "American",
+    "location": "Chicago",
+    "budget": "Low",
+    "costRange": "10-50"
+  },
+  {
+    "name": "Momofuku Noodle Bar",
+    "cuisine": "Asian",
+    "location": "New York",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "The Cheesecake Factory",
+    "cuisine": "American",
+    "location": "Houston",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "cuisine": "Mexican",
+    "location": "Denver",
+    "budget": "Low",
+    "costRange": "10-50"
+  },
+  {
+    "name": "Ruth's Chris Steak House",
+    "cuisine": "American",
+    "location": "Atlanta",
+    "budget": "High",
+    "costRange": "100-200"
+  },
+  {
+    "name": "Benihana",
+    "cuisine": "Japanese",
+    "location": "Orlando",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "Olive Garden",
+    "cuisine": "Italian",
+    "location": "Phoenix",
+    "budget": "Medium",
+    "costRange": "50-100"
+  },
+  {
+    "name": "Buffalo Wild Wings",
+    "cuisine": "American",
+    "location": "Columbus",
+    "budget": "Low",
+    "costRange": "10-50"
+  },
+  {
+    "name": "In-N-Out Burger",
+    "cuisine": "American",
+    "location": "San Diego",
+    "budget": "Low",
+    "costRange": "10-50"
+  },
+  {
+    "name": "Sushi Yasuda",
+    "cuisine": "Japanese",
+    "location": "New York",
+    "budget": "High",
+    "costRange": "100-200"
+  },
+  {
+    "name": "Canlis",
+    "cuisine": "American",
+    "location": "Seattle",
+    "budget": "High",
+    "costRange": "100-200"
+  }
+]
